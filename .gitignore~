@@ -11,6 +11,7 @@ lib-cov
 *.bin
 labels.json
 
+data
 byField
 pids
 logs
